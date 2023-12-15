@@ -1,0 +1,14 @@
+Pizza e Altro
+XXX
+30.5 euro
+45.2,10.1
+
+Francescana
+XXXXX
+200.2 euro
+45.5,10.3
+
+Antonino
+XXXX
+22.2 euro
+46.5,9.3
